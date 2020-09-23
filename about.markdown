@@ -11,4 +11,4 @@ permalink: /about/
  Banaras Hindu University
 
 
- |ML | DL | DS | INVERSION | TOMOGRAPHY | BAYESIAN |SEISMIC MIGRATION |
+ |ML | DL | DS | INVERSION | [TOMOGRAPHY](https://thelearningcurves.github.io/tomography/) | BAYESIAN |SEISMIC MIGRATION |
