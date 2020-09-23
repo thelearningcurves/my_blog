@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "My First Post"
+date:   2020-09-23 15:51:38 +0545
+categories: jekyll update
+---
+
+
+
+
+#  This was made using typora
+
+| sss  |      |      |
+| ---- | ---- | ---- |
+| sss  |      |      |
+|      |      |      |
+|      |      |      |
+
+```python
+import sklearn
+import numpy as np
+```
+
