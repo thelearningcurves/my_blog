@@ -6,6 +6,7 @@ permalink: /about/
 
  Shobhit Mishra
  MSc(tech) Geophysics
+
  Banaras Hindu University
 
 
