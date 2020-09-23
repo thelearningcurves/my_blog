@@ -1,10 +1,11 @@
 ---
 layout: page
-title: About Author
+title: 
 permalink: /about/
 ---
 
- Shobhit Mishra
+ ## Shobhit Mishra
+
  MSc(tech) Geophysics
 
  Banaras Hindu University
