@@ -70,7 +70,7 @@ axs[2,2].set_title('phase spectrum of combined signal')
 fig.tight_layout()
 ```
 
-![Fourier](\images\1.png)
+![Fourier](https://github.com/thelearningcurves/my_blog/blob/master/images/1.png?raw=true)
 
 
 
