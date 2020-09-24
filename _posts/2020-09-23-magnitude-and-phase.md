@@ -12,7 +12,7 @@ Here , I attempt to visually interpret the two results of Fourier transform viz.
 
 The confusing part is the Phase Spectrum. Here is how I understand it. When a complex or composite signal is broken into its constituent frequencies, each sine wave might be delayed in time scale from zero phase. And this delay is recorded in form of angles or radians for each component signal.
 
-![The decomposition of a complex signal](images\fourier.PNG)
+![The decomposition of a complex signal](https://github.com/thelearningcurves/my_blog/blob/master/images/fourier.PNG?raw=true)
 
 > Here we see the the Fourier transform of a complex signal. The decomposition is shown on two X-axes of frequencies when one has amplitude on Y-axis another has phase on Y-axis in terms of radians. The upper decomposition shows each component with single phase of  180 degrees and the amplitude is in decreasing order. On the lower diagram, we have the same wave where the phases are zero for all the components.
 
@@ -80,7 +80,7 @@ The last plot is lime color is the phase spectra of the combined signal and we s
 
 To get a final conclusive understanding Here is the phase spectrum of the pure sine wave.
 
-![sada](images\sada.PNG)
+![sada](https://github.com/thelearningcurves/my_blog/blob/master/images/sada.PNG?raw=true)
 
 
 
