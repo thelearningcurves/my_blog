@@ -4,9 +4,9 @@ title:
 permalink: /about/
 ---
 
- ## Shobhit Mishra
+  --
 
- ![Image](https://github.com/thelearningcurves/my_blog/blob/master/images/Webp.net-resizeimage.jpg?raw=true)
+ ![Image](https://github.com/thelearningcurves/my_blog/blob/master/images/Webp.net-resizeimage.jpg?raw=truesy)
 
  MSc(tech) Geophysics
 

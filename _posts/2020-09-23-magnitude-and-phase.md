@@ -2,7 +2,7 @@
 layout: post
 title:  "Magnitude and Phase Spectra Explained"
 date:   2020-09-23 15:51:38 +0545
-categories: jekyll update
+categories: DSP
 ---
 # Magnitude and Phase Spectra
 
