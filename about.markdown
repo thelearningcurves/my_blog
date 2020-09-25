@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Shobhit
 permalink: /about/
 ---
 
