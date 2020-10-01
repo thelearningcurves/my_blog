@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shobhit
+title: About Author
 permalink: /about/
 ---
 
