@@ -3,7 +3,7 @@ layout: post
 title:  "Seismic Migration"
 date:   2020-10-01 15:51:38 +0545
 categories: Seismic
-usemathjax: True
+mathjax: true
 ---
 
 
