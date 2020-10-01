@@ -30,6 +30,8 @@ github_username:  thelearningcurves
 # Build settings
 theme: minima
 markdown: kramdown
+markdown:
+    math_engine: mathjax
 plugins:
   - jekyll-feed
 
