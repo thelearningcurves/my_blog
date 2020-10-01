@@ -26,12 +26,12 @@ baseurl: "/my_blog" # the subpath of your site, e.g. /blog
 url: "https://thelearningcurves.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:  thefatbuddha_
 github_username:  thelearningcurves
+markdown: kramdown
+highlighter: rouge
 
 # Build settings
 theme: minima
-markdown: kramdown
-markdown:
-    math_engine: mathjax
+ 
 plugins:
   - jekyll-feed
 
