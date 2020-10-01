@@ -3,7 +3,7 @@ layout: post
 title:  "Seismic Migration"
 date:   2020-10-01 15:51:38 +0545
 categories: Seismic
-usemathjax: true
+usemathjax: True
 ---
 
 
@@ -30,17 +30,11 @@ When Migration is performed, two displacement takes place for a reflector. One i
 
 Chun and Jacewitz derived some awesome formulas:
 
-$$
-d_x = \frac {v^2} t * \frac {\Delta t} {\Delta x}       \tag {1 (Horizonatal/spatial displacement)}
-$$
+$$d_x = \frac {v^2} t * \frac {\Delta t} {\Delta x}       \tag {1 (Horizonatal/spatial displacement)}$$
 
-$$
-d_t = t  \left[1- \sqrt{ 1- \left( \frac {v}2 \frac{\Delta t} {\Delta x}  \right)^2}\right] \tag{2(temporal/time displacement)}
-$$
+$$d_t = t  \left[1- \sqrt{ 1- \left( \frac {v}2 \frac{\Delta t} {\Delta x}  \right)^2}\right] \tag{2(temporal/time displacement)}$$
 
-$$
-\frac {\Delta \tau} {\Delta x} = \frac {1}{\sqrt {1- \left( \frac {v}2 \frac{\Delta t} {\Delta x} \right)^2}} \tag{3(change in dip in migrated section)}
-$$
+$$\frac {\Delta \tau} {\Delta x} = \frac {1}{\sqrt {1- \left( \frac {v}2 \frac{\Delta t} {\Delta x} \right)^2}} \tag{3(change in dip in migrated section)}$$
 
 here   in the 3rd equation tau is simply a representation of actual travel time interval in a time migration scenario.
 
