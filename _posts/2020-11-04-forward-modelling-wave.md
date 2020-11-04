@@ -3,6 +3,7 @@ layout: post
 title:  "FWI I "
 date:   2020-11-04 15:51:38 +0545
 categories: INVERSION
+mathjax: true
 ---
 
 
