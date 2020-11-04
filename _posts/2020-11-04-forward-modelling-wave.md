@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "FWI I "
+title:  "FULL WAVE INVERSION - THE FORWARD MODEL "
 date:   2020-11-04 15:51:38 +0545
 categories: INVERSION
 mathjax: true
@@ -55,7 +55,7 @@ plot_velocity(model)
 
 
 
-![png](output_3_1.png)
+![png](https://github.com/thelearningcurves/my_blog/blob/master/images/1.png?raw=true)
     
 
 
@@ -97,7 +97,7 @@ src.show()
 ```
 
 
-![png](output_6_0.png)
+![png](https://github.com/thelearningcurves/my_blog/blob/master/images/2.png?raw=true)
     
 
 
@@ -119,7 +119,7 @@ plot_velocity(model, source=src.coordinates.data,
 ```
 
 
-![png](output_7_0.png)
+![png](https://github.com/thelearningcurves/my_blog/blob/master/images/3.png?raw=true)
     
 
 
@@ -220,7 +220,7 @@ plot_shotrecord(rec.data, model, t0, tn)
 ```
 
 
-![png](output_18_0.png)
+![png](https://github.com/thelearningcurves/my_blog/blob/master/images/4.png?raw=true)
     
 
 
@@ -274,7 +274,7 @@ plt.tight_layout()
 ```
 
 
-![png](output_22_0.png)
+![png](https://github.com/thelearningcurves/my_blog/blob/master/images/5.png?raw=true)
     
 
 
